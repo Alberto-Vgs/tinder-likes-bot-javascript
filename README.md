@@ -22,19 +22,23 @@ var likeButton = document.querySelector("#u-1035653303 > div > div.App__body.H\\
 
 ## Common mistakes
 
-If the excript show erros similar to this:
+If the script show errors similar to this:
+
+
 ![Tinder Buttons Screenshot](./screenshots/mistake-1.png)
 
-do not worrie about, it's common and easy to solved, go to the tinder web page and right click in like button:
+do not worry about, it's common and easy to solved, go to the tinder web page and right click in like button:
+
 
 ![Tinder Buttons Screenshot](./screenshots/tinderButtons.png)
 
 ![Button Inspect Screenshot](./screenshots/button-inspect.png)
 
-after search the "button" tag over the selected tag and right click it, copy the js path and replace it in code
-![Button Inspect Screenshot](./screenshots/button-js-path.png)
+after search the "button" tag over the selected tag and right click it, copy the JS path and replace it in code
 
+![Button Inspect Screenshot](./screenshots/button-js-path.png)
 ```JavaScript
     var likeButton = //Ctrl + v
 ```
-copy and paste on console again.
+
+Copy and paste on console again.
