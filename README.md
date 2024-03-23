@@ -42,3 +42,6 @@ after search the "button" tag over the selected tag and right click it, copy the
 ```
 
 Copy and paste on console again.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-vgs/)
