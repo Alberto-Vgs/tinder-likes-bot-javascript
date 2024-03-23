@@ -1,2 +1,4 @@
-# tinder-likes-bot-javascript
-Un simple script en JavaScript para dar likes en la aplicación de citas Tinder.
+
+# Tinder likes bot using javascript
+
+A simple JavaScript script to give likes on the dating app Tinder.
